@@ -9,7 +9,7 @@ README dosyası, bir adet de index.html barındırıyor.
 Öncelikle projeyi clonelayın.
 
 ```bash
-git clone hksefa/kodluyoruzilkrepo
+git clone https://github.com/hksefa/kodluyoruzilkrepo.git
 ```
 
 ## Usage
